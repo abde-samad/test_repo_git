@@ -1,4 +1,4 @@
 une changement depuis repository centrale de git
 
-une changement depuis repository local de git
+une changement depuis repository local de git.
 
